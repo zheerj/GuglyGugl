@@ -1,1 +1,2 @@
-# GuglyGugl
+# zesty-tut
+For educational purposes.
